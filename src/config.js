@@ -3,9 +3,9 @@
 module.exports = {
   token:
     "your_token",
-  clientId: "client_id",
+  clientId: "1290310998531506196",
   prefix: ">",
-  ownerID: "owner_id",
+  ownerID: "440498587357413388",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
@@ -22,9 +22,9 @@ module.exports = {
       "https://discord.com/api/oauth2/authorize?client_id=1033496708992204840&permissions=824671333721&scope=bot",
     arrkiii:
       "https://cdn.discordapp.com/attachments/1187323477032697867/1236626903847407696/Arrkiii.gif",
-    power: "Powered By Arrkiii Development 🌙",
-    vanity: "discord.gg/urV9mkfW9t",
-    guild: "1325384856477368420",
+    power: "Powered By Senpai 🌙",
+    vanity: "discord.gg/luxuryz",
+    guild: "1250367134480208053",
     topgg: "https://top.gg/bot/1033496708992204840/vote",
   },
   Webhooks: {
