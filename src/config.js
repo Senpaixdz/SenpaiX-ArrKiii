@@ -2,7 +2,7 @@
 
 module.exports = {
   token:
-    "your_token",
+    "MTI5MDMxMDk5ODUzMTUwNjE5Ng.GFfxmj.DExYwRXktggvaYwJ6XLHPYtGKbNw6x7X8x14dA",
   clientId: "1290310998531506196",
   prefix: ">",
   ownerID: "440498587357413388",
